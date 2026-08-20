@@ -13,10 +13,10 @@ Welcome to my official internship repository! This space documents my 4-week jou
 
 | Week | Project | Key Concepts | Status |
 | :--- | :--- | :--- | :--- |
-| **Week 1** | [Password Strength Checker](./Week_1/) | Defensive Logic, Entropy, Common Password Detection | ✅ Completed |
-| **Week 2** | [Basic Encryption & Decryption (Caesar Cipher)](./Week_2/) | Data Confidentiality, Cryptography, Brute-Force Analysis | ✅ Completed |
-| Week 3 | *Coming Soon* | TBD | ⏳ Pending |
-| Week 4 | *Coming Soon* | TBD | ⏳ Pending |
+| **Week 1** | [Password Strength Checker](./week_1/) | Defensive Logic, Entropy, Common Password Detection | ✅ Completed |
+| **Week 2** | [Basic Encryption & Decryption (Caesar Cipher)](./week_2/) | Data Confidentiality, Cryptography, Brute-Force Analysis | ✅ Completed |
+| Week 3 | [Phishing Awareness Analysis](./week_3/) | Threat Identification, Cognitive Triggers, Red Flag Detection | ✅ Completed |
+| Week 4 | [System Vulnerability Checklist](./week_4/) | Proactive Hardening, Risk Assessment, Blue Team Defense | ✅ Completed |
 
 ---
 
