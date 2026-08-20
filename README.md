@@ -56,7 +56,7 @@ Throughout this internship, I am mastering:
 ## 🔗 Connect with Me
 
 - [GitHub Profile](https://github.com/Ali-Badelpour)
-- [LinkedIn](www.linkedin.com/in/ali-badelpour-a15b2841a)
+- [LinkedIn](https://www.linkedin.com/in/ali-badelpour-a15b2841a)
 
 ---
 
